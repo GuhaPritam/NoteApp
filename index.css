@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(109, 225, 109);
+}
+
+.my-2{
+    background-color: rgb(171, 228, 188);
+}
+
+.form-control{
+    box-shadow: 5px 13px 21px green;
+}
